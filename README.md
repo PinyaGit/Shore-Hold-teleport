@@ -3,8 +3,8 @@ oh, in the title you need to clarify what it does?
 ❗not working yet❗
 
 ## Setup:
-- Copy/paste all .def files from the [protocol folder](https://github.com/PinguinRei/RTPort/tree/master/defs) to `<path to proxy>\node_modules\tera-data\protocol\`.
-- Copy/paste the [opcodes](https://github.com/PinguinRei/RTPort/tree/master/opcodes) from the map folder into the corresponding .map file within `<path to proxy>\node_modules\tera-data\map\`.
+- Copy/paste Shore-Hold-teleport folder from the [mods folder] to `<path to proxy>\mods\`.
+- Copy/paste the [map](https://github.com/tera-proxy/tera-data/tree/master/map) from the map folder into the corresponding .map file within `<path to proxy>\node_modules\tera-data\map\`.
 
 ## Commands
 **Need to be used in _Proxy Channel_ (/proxy) or (/8)**
