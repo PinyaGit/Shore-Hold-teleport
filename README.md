@@ -1,6 +1,6 @@
 # Shore-Hold-teleport
 oh, in the title you need to clarify what it does?
-
+❗not working yet❗
 
 ## Setup:
 - Copy/paste all .def files from the [protocol folder](https://github.com/PinguinRei/RTPort/tree/master/defs) to `<path to proxy>\node_modules\tera-data\protocol\`.
